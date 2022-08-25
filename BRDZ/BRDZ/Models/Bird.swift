@@ -8,7 +8,7 @@
 import Foundation
 
 struct Bird: Codable {
-    var PK: UUID?
+    var bird_id: UUID?
     var screen_name: String?
     var name: String?
     var address: String?
