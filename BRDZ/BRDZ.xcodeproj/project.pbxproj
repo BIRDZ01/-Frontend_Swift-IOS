@@ -12,6 +12,7 @@
 		6131212328B7E63D0055D9A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6131212228B7E63D0055D9A2 /* Assets.xcassets */; };
 		6131212628B7E63D0055D9A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6131212528B7E63D0055D9A2 /* Preview Assets.xcassets */; };
 		6131212E28B7E6CA0055D9A2 /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6131212D28B7E6CA0055D9A2 /* Bird.swift */; };
+		6131213228B7E94F0055D9A2 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6131213128B7E94F0055D9A2 /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		6131212228B7E63D0055D9A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6131212528B7E63D0055D9A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6131212D28B7E6CA0055D9A2 /* Bird.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
+		6131213128B7E94F0055D9A2 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				6131212D28B7E6CA0055D9A2 /* Bird.swift */,
+				6131213128B7E94F0055D9A2 /* Post.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				6131212128B7E63C0055D9A2 /* ContentView.swift in Sources */,
 				6131212E28B7E6CA0055D9A2 /* Bird.swift in Sources */,
 				6131211F28B7E63C0055D9A2 /* BRDZApp.swift in Sources */,
+				6131213228B7E94F0055D9A2 /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
